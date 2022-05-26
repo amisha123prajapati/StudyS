@@ -1,0 +1,2 @@
+# StudyS
+ StudyS is a platform to provide smart type of study materials in need of fast and correct learning !! This will give you more clarity to learn in great way in minimun time. You will get confident and perform well. It will help in building your own interest as well as in academic, competitive exams and many more things. So Go ahead and Get Started! Coming Soon!  https://studys.netlify.app/
